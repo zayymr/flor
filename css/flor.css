@@ -1,0 +1,297 @@
+body {
+	margin: 0px;
+	padding 0px;
+}
+
+div.drops {
+	width: 500px;
+	height: 500px;
+	margin: 150px auto;
+	position: relative;
+}
+
+.p1 {
+	width: 200px;
+	height: 200px;
+	background: red;
+	position: absolute;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	top: 0px;
+	left: 0px;
+	border-bottom-left-radius: 200px;
+	border-top-right-radius: 200px;
+	transform: rotate(deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p2{
+	width: 200px;
+	height: 200px;
+	background: #009797;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	bottom: 310px;
+	left:70px;
+	border-bottom-left-radius: 200px;
+	border-top-right-radius: 200px;
+	transform: rotate(20deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p3{
+	width: 200px;
+	height: 200px;
+	background: blue;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	top: 0px;
+	left:140px;
+	border-bottom-left-radius: 200px;
+	border-top-right-radius: 200px;
+	transform: rotate(43deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p4{
+	width: 200px;
+	height: 200px;
+	background: purple;
+	position: absolute;
+	top: 0px;
+	left: 210px;
+	border-bottom-left-radius: 200px;
+	border-top-right-radius: 200px;
+	transform: rotate(70deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p5{
+	width: 200px;
+	height: 200px;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	background: yellow;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	border-bottom-right-radius: 200px;
+	border-top-left-radius: 200px;
+	border-style: solid;
+	border-width:1px;
+}
+
+.p6{
+	width: 200px;
+	height: 200px;
+	background: #8c1aff;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	top: 80px;
+	left: 300px;
+	border-bottom-right-radius: 200px;
+	border-top-left-radius: 200px;
+	transform: rotate(20deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p7{
+	width: 200px;
+	height: 200px;
+	background: green;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	bottom: 140px;
+	right: 0px;
+	border-bottom-left-radius: 200px;
+	border-top-right-radius: 200px;
+	transform: rotate(135deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p8{
+	width: 200px;
+	height: 200px;
+	background: #519331;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	bottom: 80px;
+	left: 295px;
+	border-bottom-right-radius: 200px;
+	border-top-left-radius: 200px;
+	transform: rotate(73deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p9{
+	width: 200px;
+	height: 200px;
+	background: pink;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	border-bottom-left-radius: 200px;
+	border-top-right-radius: 200px;
+	border-style: solid;
+	border-width:1px;
+}
+
+.p10{
+	width: 200px;
+	height: 200px;
+	background: #236A62;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	bottom: 0px;
+	left: 200px;
+	border-bottom-right-radius: 200px;
+	border-top-left-radius: 200px;
+	transform: rotate(115deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p11{
+	width: 200px;
+	height: 200px;
+	background: brown;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	bottom: 0px;
+	left: 140px;
+	border-bottom-right-radius: 200px;
+	border-top-left-radius: 200px;
+	transform: rotate(135deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p12{
+	width: 200px;
+	height: 200px;
+	background: #3E5100;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	bottom: 0px;
+	left: 70px;
+	border-bottom-right-radius: 200px;
+	border-top-left-radius: 200px;
+	transform: rotate(160deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p13{
+	width: 200px;
+	height: 200px;
+	background: orange;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	border-bottom-right-radius: 200px;
+	border-top-left-radius: 200px;
+	border-style: solid;
+	border-width:1px;
+}
+
+.p14{
+	width: 200px;
+	height: 200px;
+	background: #AA5939;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	top: 210px; 
+	left: 0px;
+	border-bottom-right-radius: 200px;
+	border-top-left-radius: 200px;
+	transform: rotate(200deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p15{
+	width: 200px;
+	height: 200px;
+	background: grey;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	bottom: 140px;
+	left:0px;
+	border-bottom-left-radius: 200px;
+	border-top-right-radius: 200px;
+	transform: rotate(135deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.p16 {
+	width: 200px;
+	height: 200px;
+	background: #13CD00;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 30px;
+	position: absolute;
+	top: 80px;
+	left: 0px;
+	border-bottom-left-radius: 200px;
+	border-top-right-radius: 200px;
+	transform: rotate(155deg);
+	border-style: solid;
+	border-width:1px;
+}
+
+.flowerCenter {
+	content: '1';
+	width: 150px;
+	height: 150px;
+	font-family: "fantasy";
+	font-weight: 100px;
+	font-size: 3px;
+	text-align: center;
+	background: #CABB00;
+	position: absolute;
+	top: 175px;
+	right: 195px;
+	border-radius: 150px;
+	border-style: solid;
+	border-width:1px;
+	overflow: hidden;
+	cursor: pointer;
+
+}
